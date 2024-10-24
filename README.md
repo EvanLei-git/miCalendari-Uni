@@ -33,20 +33,26 @@ Execution: `java -jar miCalendari-2.0.jar`
     <img src="https://github.com/user-attachments/assets/5cf26298-e25e-49d1-a5e9-a611bd964097" alt="image1" width="600"/>
     <p>Image 1: Turning my Imagination into a Photoshop Design. </p>
 </div>
+</b>
 
+## 
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/e43b0287-3769-453b-b5bb-f99218089ab7" alt="image2" width="600"/>
     <p>Image 2: Photoshop re-Design with the Half completed UI + More imagination.</p>
 </div>
+</b>
 
+## 
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/db273a41-cfb5-476e-9317-82f3b28d6ff9" alt="image3" width="600"/>
     <p>Image 3: Perfection! Haven't been more proud about my art. </p>
 </div>
 </b>
+</b>
 
+## 
 
 
 ## License
