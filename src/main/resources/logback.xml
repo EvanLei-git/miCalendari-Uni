@@ -1,0 +1,4 @@
+<!-- https://stackoverflow.com/questions/56093787/how-to-disable-any-kind-of-logging-from-dependency-in-maven-logback-ethereumj -->
+<configuration>
+    <logger name="org.mnode.ical4j" level="OFF" />
+</configuration>
