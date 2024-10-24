@@ -4,7 +4,7 @@
 The app processes iCalendar files (iCal4j) and provides a graphical user interface (Swing) to create, read, and write calendar data, converting command-line operations (First part of the Assignment) into user-friendly buttons and controls (Second part of the Assignment). Started as a group assignment but besides a few UI lines and a bunch of Unnecessary delays by my Groupmates i did 80%+ of the work to Finish this assignment.
 
 ## Acquired Skills:
- - Using Maven, a Build automation tool! (quite fun)
+ - Using Maven as my Build automation tool! (quite fun)
  - Creating a UI in Java (scary i know)
 
 ## How to use
